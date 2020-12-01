@@ -2,7 +2,7 @@
 <html>
   <head>
     <?php
-      include 'modules/_headTags.html';
+      include '../php/modules/_headTags.html';
     ?>
   </head>
   <body>
